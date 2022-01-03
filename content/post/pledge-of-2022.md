@@ -4,7 +4,7 @@ authors: []
 title: Pledge of 2022
 excerpt: ''
 date: 2022-01-03T00:00:00+00:00
-hero: ''
+hero: "/images/national_archive_matbenefit.jpg"
 
 ---
 The first working day of 2022 is upon us tomorrow. Not for me. I am on maternity leave and for me it’s the first day of dropping off the littlest one for their first day of settling into nursery. I am hit with a few more emotions than I was with the ‘biggest little one’ because this really is the last maternity leave I plan to take.
